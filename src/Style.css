@@ -1,0 +1,19 @@
+.im1{
+    width: 130px;
+    height:130px;
+    float: right;
+    margin-top: 0;
+    margin-right: 40%;
+    
+ 
+}
+.pro{
+    float: center;
+    margin-top: 5%;
+    padding-right: 30%;
+    border: 1px solid transparent;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 500;
+    
+}
